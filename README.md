@@ -172,16 +172,27 @@ ArrayList和LinkedList的区别，以及应用场景
 run()和start()方法区别
 
 如何控制某个方法允许并发访问线程的个数？
+
 在Java中wait和seelp方法的不同；
+
 谈谈wait/notify关键字的理解
+
 什么导致线程阻塞？
+
 线程如何关闭？
+
 讲一下java中的同步的方法
+
 数据一致性如何保证？
+
 如何保证线程安全？
+
 如何实现线程同步？
+
 两个进程同时要求写或者读，能不能实现？如何防止进程的同步？
+
 线程间操作List
+
 Java中对象的生命周期
 Synchronized用法
 synchronize的原理
