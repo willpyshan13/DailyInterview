@@ -247,11 +247,13 @@ Java的并发、多线程、线程模型
 
 断点续传的实现
 
-（五）并发编程有关知识点（这个是一般Android开发用的少的，所以建议多去看看）：
+（五）并发编程有关知识点（这个是一般Android开发用的少的，所以建议多去看看）
+
 
 平时Android开发中对并发编程可以做得比较少，Thread这个类经常会用到，但是我们想提升自己的话，一定不能停留在表面，,我们也应该去了解一下java的关于线程相关的源码级别的东西。
 
 二、Android面试题
+
 
 Android面试题包括Android基础，还有一些源码级别的、原理这些等。所以想去大公司面试，一定要多看看源码和实现方式，常用框架可以试试自己能不能手写实现一下，锻炼一下自己。
 
@@ -274,25 +276,45 @@ Activity上有Dialog的时候按Home键时的生命周期
 两个Activity 之间跳转时必然会执行的是哪几个方法？
 
 前台切换到后台，然后再回到前台，Activity生命周期回调方法。弹出Dialog，生命值周期回调方法。
+
 Activity的四种启动模式对比
+
 Activity状态保存于恢复
+
 fragment各种情况下的生命周期
+
 Fragment状态保存startActivityForResult是哪个类的方法，在什么情况下使用？
+
 如何实现Fragment的滑动？
+
 fragment之间传递数据的方式？
+
 Activity 怎么和Service 绑定？
+
 怎么在Activity 中启动自己对应的Service？
+
 service和activity怎么进行数据交互？
+
 Service的开启方式
+
 请描述一下Service 的生命周期
+
 谈谈你对ContentProvider的理解
+
 说说ContentProvider、ContentResolver、ContentObserver 之间的关系
+
 请描述一下广播BroadcastReceiver的理解
+
 广播的分类
+
 广播使用的方式和场景
+
 在manifest 和代码中如何注册和使用BroadcastReceiver?
+
 本地广播和全局广播有什么差别？
+
 BroadcastReceiver，LocalBroadcastReceiver 区别
+
 AlertDialog,popupWindow,Activity区别
 Application 和 Activity 的 Context 对象的区别
 Android属性动画特性
