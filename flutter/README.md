@@ -15,3 +15,6 @@ https://github.com/atamocius/flutterstein-3d
 
 flutter仿微信
 https://github.com/fluttercandies/wechat_flutter
+
+网易云音乐
+https://github.com/fluttercandies/NeteaseCloudMusic
