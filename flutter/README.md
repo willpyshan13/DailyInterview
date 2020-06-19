@@ -12,3 +12,6 @@ github
 
 3d效果
 https://github.com/atamocius/flutterstein-3d
+
+flutter仿微信
+https://github.com/fluttercandies/wechat_flutter
