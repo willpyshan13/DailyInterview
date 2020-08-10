@@ -14,11 +14,11 @@
 
 7、[c](https://github.com/willpyshan13/DailyInterview/c/readme.md)
 
-8、设计模式[android](https://github.com/willpyshan13/DailyInterview/android/readme.md)
+8、[设计模式](https://github.com/willpyshan13/DailyInterview/android/readme.md)
 
-9、数据结构[android](https://github.com/willpyshan13/DailyInterview/android/readme.md)
+9、[数据结构](https://github.com/willpyshan13/DailyInterview/android/readme.md)
 
-10、相关书籍[android](https://github.com/willpyshan13/DailyInterview/android/readme.md)
+10、[相关书籍](https://github.com/willpyshan13/DailyInterview/android/readme.md)
 
 11、[leetcode](https://github.com/willpyshan13/DailyInterview/leetcode/readme.md)
 
