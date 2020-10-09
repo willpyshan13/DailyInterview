@@ -81,21 +81,4 @@ class Solution {
         return false
     }
 }
-
-快慢指针，一个1,一个3,减少时间复杂度
-class Solution {
-    fun hasCycle(head: ListNode?): Boolean {
-        if (head==null) return false
-        var node1 = head.next
-        var node2 = head.next?.next
-        while (node1!=null&&node2!=null&&node1.next!=null&&node1.next?.next!=null){
-            if (node1 === node2){
-                return true
-            }
-            node1 = node1.next
-            node2 = node2.next?.next
-        }
-        return false
-    }
-}
 //leetcode submit region end(Prohibit modification and deletion)
