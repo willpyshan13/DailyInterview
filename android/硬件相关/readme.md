@@ -10,3 +10,10 @@ https://developer.android.com/things/sdk/pio/pwm
 3、串口（uart）
 
 https://developer.android.com/things/sdk/pio/uart
+
+4、android gpio 控制
+   修改  sys/class/gpio 查找相对应的io口来控制
+   一般有两种方式，一个是用shell 去控制，一种是io流的读写
+   io流可以用java 也可以用 jni方式，建议用jni的方式
+
+5、android gpio  控制led灯   原理跟上面一样，将io口置为低电平或者高电平即可
