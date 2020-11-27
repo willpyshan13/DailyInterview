@@ -6,3 +6,6 @@ android 9.0
 
 2、usb转tp触点反方向
 
+3、recovery方向
+
+4、开机动画方向  

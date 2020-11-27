@@ -19,3 +19,5 @@ https://developer.android.com/things/sdk/pio/uart
    https://blog.csdn.net/zjc3909/article/details/78732374?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-15&spm=1001.2101.3001.4242
 
 5、android gpio  控制led灯   原理跟上面一样，将io口置为低电平或者高电平即可
+
+6、
