@@ -14,9 +14,7 @@ android 9.0
 
 需要将口变成gpio 口 
 kernel/arch/arm64/boot/dts/rockchip/rk3399pro-firefly-aioc-lvds.dts
-
 将底下原先是 okay改成disabled
-
 &i2c7 {
     status = "disabled";
     i2c-scl-rising-time-ns = <345>;
