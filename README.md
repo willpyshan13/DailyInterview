@@ -18,7 +18,7 @@
 
 9、[数据结构](https://github.com/willpyshan13/DailyInterview/blob/master/android/readme.md)
 
-10、[相关书籍](https://github.com/willpyshan13/DailyInterview/blob/master/android/readme.md)
+10、[相关书籍](https://github.com/willpyshan13/DailyInterview/tree/master/%E4%B9%A6%E7%B1%8D)
 
 11、[leetcode](https://github.com/willpyshan13/DailyInterview/blob/master/leetcode/readme.md)
 
